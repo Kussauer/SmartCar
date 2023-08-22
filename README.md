@@ -1,8 +1,8 @@
 # SmartCar by Nick
 
-Projektstart: August 2023
-Projektbeschreibung: Autonomes Auto + Fernsteuerungsbetrieb
-Projektstatus: In Arbeit
+# Projektstart: August 2023
+# Projektbeschreibung: Autonomes Auto + Fernsteuerungsbetrieb
+# Projektstatus: In Arbeit
 ### Gehört zu Projekt Fernsteuerung - Sender ###
 
 Meilensteine / Funktionen / Roadmap:
