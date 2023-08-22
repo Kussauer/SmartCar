@@ -14,7 +14,7 @@ Meilensteine / Funktionen / Roadmap:
 - automatisch nivellierende Systemplattform bspw. für Kamera
 - GPS-Begrenzung inkl. automatischer Rückkehr bei Transmittersignalverlust
 
-=======================================================================================
+===================================================================================
 
 August 2023
 - Initierung des Projekts mit VS Code und PlatformIO
