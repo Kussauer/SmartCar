@@ -15,6 +15,7 @@ Meilensteine / Funktionen / Roadmap:
 - GPS-Begrenzung inkl. automatischer Rückkehr bei Transmittersignalverlust
 
 =======================================================================================
+
 August 2023
 - Initierung des Projekts mit VS Code und PlatformIO
 - 
